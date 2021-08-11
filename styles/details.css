@@ -7,5 +7,18 @@
     padding: 1rem;
     border-radius: 0.5rem;
     box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    width: 200px; 
 }
 
+.jewelryTypes {
+    display: flex;
+    align-items: flex-end;
+    margin-left: 14px;
+    margin-top: 30px;
+    margin-bottom: 1px;
+    
+}
+
+.choices {
+    display: flex;
+}
